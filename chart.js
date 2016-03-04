@@ -1,17 +1,4 @@
-// <!DOCTYPE html>
-// <html>
-//   <head>
-//   <meta charset="utf-8">
-//     <title>Market Analysis</title>
-//     <link rel="stylesheet" href="style/style.css">
-//     <script src="app.js"></script>
-//   </head>
-//   <body>
-//     <h1></h1>
-//     <img src="https://github.com/codefellows/sea-201n2/blob/master/week_5-6/assets/imgs/bag.jpg?raw=true">
-//     <h2></h2>
-//   </body>
-// </html>
+
 var data = {
     labels: ["January", "February", "March", "April", "May", "June", "July"],
     datasets: [
